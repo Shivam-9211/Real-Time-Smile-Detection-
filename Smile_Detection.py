@@ -1,4 +1,5 @@
 #===================***Real-Time Smile Dection System***=================== 
+# To stop running code press 'q' in keyboard
 
 import cv2
 
