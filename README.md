@@ -8,6 +8,5 @@ improving detection consistency across multiple faces (up to 3–5 simultaneousl
 (iii) Optimized image processing pipeline using ROI (Region of Interest) techniques, decreasing computational load by ~40% and enhancing real-time performance efficiency.
 
 # Tech Used 
-
-Python
-OpenCV
+-Python
+-OpenCV
